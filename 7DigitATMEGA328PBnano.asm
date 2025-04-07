@@ -1,3 +1,4 @@
+7digit.asm linguist-language=Assembly
 ;___________________________________________________________________________________________________________________________________
 ;  Author: Bartłomiej Osiak
 ;  Project: Property 7 – Display Multiplexing for AVR ATmega328PB (Nano version)
